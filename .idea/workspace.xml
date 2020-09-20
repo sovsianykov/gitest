@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d70fe72-80e4-4abf-9093-0a7193027e83" name="Default Changelist" comment="two" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1ghUe25Zm4l9GBmClb8YZoL2C3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d70fe72-80e4-4abf-9093-0a7193027e83" name="Default Changelist" comment="" />
+      <created>1598566411572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598566411572</updated>
+      <workItem from="1598566413453" duration="257000" />
+      <workItem from="1599062664146" duration="12000" />
+      <workItem from="1599062683014" duration="9000" />
+      <workItem from="1599062815635" duration="10000" />
+      <workItem from="1599072309740" duration="34000" />
+      <workItem from="1599072345003" duration="2773000" />
+      <workItem from="1600002970865" duration="531000" />
+      <workItem from="1600071547658" duration="178000" />
+      <workItem from="1600579523513" duration="1222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="two" />
+    <option name="LAST_COMMIT_MESSAGE" value="two" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="98" key="#Plugins" timestamp="1600580137512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1600580137512" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600580472167">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600580472167" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1600580667616">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600580667616" />
+    <state x="229" y="103" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600579836731" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600580078939">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600580078939" />
+  </component>
+</project>
