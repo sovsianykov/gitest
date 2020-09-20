@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d70fe72-80e4-4abf-9093-0a7193027e83" name="Default Changelist" comment="two" />
+    <list default="true" id="5d70fe72-80e4-4abf-9093-0a7193027e83" name="Default Changelist" comment="two">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +54,7 @@
       <workItem from="1599072345003" duration="2773000" />
       <workItem from="1600002970865" duration="531000" />
       <workItem from="1600071547658" duration="178000" />
-      <workItem from="1600579523513" duration="1222000" />
+      <workItem from="1600579523513" duration="2167000" />
     </task>
     <servers />
   </component>
@@ -64,19 +66,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="two" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="281" key="#Notifications" timestamp="1600600327348">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="440" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1600600327348" />
     <state x="320" y="98" key="#Plugins" timestamp="1600580137512">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1600580137512" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600580472167">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="184" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600599729480">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600580472167" />
-    <state x="229" y="89" key="SettingsEditor" timestamp="1600580667616">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="184" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1600599729480" />
+    <state x="229" y="103" key="SettingsEditor" timestamp="1600599800769">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600580667616" />
-    <state x="229" y="103" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600579836731" />
+    <state x="229" y="103" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600599800769" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600580078939">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
