@@ -1,0 +1,31 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c09c4520a42aa3e2501003f08f3818f0bcb0e041)
++++ .idea/workspace.xml	(date 1603219653633)
+@@ -13956,6 +13956,10 @@
+     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600600693643" />
+     <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1601845265920" />
+     <state x="184" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1600599729480" />
++    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603219267759">
++      <screen x="0" y="0" width="1440" height="900" />
++    </state>
++    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1603219267759" />
+     <state x="458" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601893333720">
+       <screen x="0" y="23" width="1440" height="804" />
+     </state>
+@@ -13970,10 +13974,10 @@
+     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600580667616" />
+     <state x="229" y="103" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1601846584209" />
+     <state x="229" y="103" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1600599800769" />
+-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600600540552">
++    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603219642118">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600600540552" />
++    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603219642118" />
+     <state x="385" y="198" width="670" height="604" key="search.everywhere.popup" timestamp="1601845230920">
+       <screen x="0" y="23" width="1440" height="804" />
+     </state>
